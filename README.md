@@ -11,4 +11,4 @@ I already know a little bit of Git and Markdown. Here I will have different sect
 At the moment, I do not publish it throuth Jekyll or use a theme.
 
 For that, refer to my first repo on github pages:
-[https://k9w.github.io/hello-world](https://k9w.github.io/hello-world)
+[https://k9w.github.io/hello-world]()
