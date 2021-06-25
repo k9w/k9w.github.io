@@ -19,4 +19,4 @@ Here is an external site I might use sometime. It is hosted using just the base 
 
 <https://capernaumtech.com>
 
-
+Apparently it takes github a bit of time sometimes to start displaying the changes on the live page after the commit.
