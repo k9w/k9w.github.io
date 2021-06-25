@@ -3,7 +3,7 @@
 Welcome to the github page for my user profile, not for a specific repo.
 
 <!-- I don't know if links specified as () default to the home page or the current page. -->
-[https://k9w.github.io]()
+[https://k9w.github.io](){target="_blank"}
 
 This is a showcase of my skills as I develop.
 
@@ -13,8 +13,8 @@ At the moment, I do not publish it throuth Jekyll or use a theme.
 
  <!-- Here I specify '/hello-world' in the () since that page is under this page. -->
 For that, refer to my first repo on github pages:
-[https://k9w.github.io/hello-world](/hello-world)
+[https://k9w.github.io/hello-world](/hello-world){target="_blank"}
 
 Here is an external site I might use sometime. It is hosted using just the base tools of OpenBSD.
 
-https://capernaumtech.com
+<a>https://capernaumtech.com</a>
