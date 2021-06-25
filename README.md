@@ -16,4 +16,5 @@ For that, refer to my first repo on github pages:
 [https://k9w.github.io/hello-world](/hello-world)
 
 Here is an external site I might use sometime. It is hosted using just the base tools of OpenBSD.
-(https://capernaumtech.com)
+
+[https://capernaumtech.com]
