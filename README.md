@@ -19,5 +19,4 @@ Here is an external site I might use sometime. It is hosted using just the base 
 
 <https://capernaumtech.com>
 
-<http://foo.bar.baz>
 
