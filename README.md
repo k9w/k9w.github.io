@@ -18,3 +18,6 @@ For that, refer to my first repo on github pages:
 Here is an external site I might use sometime. It is hosted using just the base tools of OpenBSD.
 
 <https://capernaumtech.com>
+
+<http://foo.bar.baz>
+
